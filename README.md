@@ -4,4 +4,4 @@
 
 ## 2주차
   - Github사용법
-<img width="300" height="300" src="./png/<파일명>.png"></img>
+<img width="300" height="300" src="./png/고양이.jpg"></img>
