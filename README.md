@@ -22,3 +22,6 @@
 <img width="200" height="200" src="./png/20173045_김수연 6-3.PNG"></img>
 <img width="200" height="200" src="./png/20173045_김수연 6-4.PNG"></img>
 <img width="200" height="200" src="./png/20173045_김수연 6-5.PNG"></img>
+
+## 7주차 과제
+<img width="200" height="200" src="./png/20173045_김수연 7.PNG"></img>
