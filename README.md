@@ -38,3 +38,6 @@
 
 ## 12주차 과제
 <img width="200" height="200" src="./png/20173045_김수연 12.JPG"></img>
+
+## 13주차 과제
+<img width="200" height="200" src="./png/20173045_김수연 13.JPG"></img>
